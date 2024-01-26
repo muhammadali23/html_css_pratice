@@ -1,0 +1,51 @@
+/* css begins  */
+*{
+   margin: 0px;
+   padding: 0px; 
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#heading{
+    color: aqua;
+}
+#first_head{
+    color: yellow;
+    /* height: 50px;
+    width: 50px; */
+    /* alpha model of color */
+    background-color: rgba(185, 90, 109,0.8);
+    
+  }
+
+  #second_head{
+    color :cadetblue;
+    /* height: 50px;
+    width: 50px; */
+    background-color:turquoise
+  }
+  main{
+    height: 500px;
+    background-color: blanchedalmond;
+  }
+  #product{
+    background-image: url(back.jpg);
+    height: 200px;
+    width: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
+
+  #head_1{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: brown;
+  }
+
+  #outer{
+    font-size: 25px;
+  }
+  #inner{
+    font-size: 10px;
+  }
